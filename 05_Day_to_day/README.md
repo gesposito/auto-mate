@@ -22,7 +22,9 @@ Other tasks are pretty much usual configuration.
 
 Where to go from here?
 This is a made-up workflow but some of these tasks may be included in your current setup, if you happen to use this flow also have a look at
+
 [grunt-nodemailer](https://github.com/dwightjack/grunt-nodemailer)
+
 [grunt-dropbox](https://github.com/kbremner/grunt-dropbox)
 
 I will try to set these up and update this repo eventually.
