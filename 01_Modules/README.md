@@ -9,7 +9,7 @@ at the top of each file or with the ```node: true``` option.
 
 This will instruct 'jshint' that these are actually NodeJS modules and to not worry about NodeJS specific functions.
 
-Edit the Gruntfile.js using the NodeJS's ```require()``` for every task configuration to be loaded.
+Edit the 'Gruntfile.js' using the NodeJS's ```require()``` for every task configuration to be loaded.
 
 Happy
 ```
