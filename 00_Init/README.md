@@ -5,7 +5,7 @@ Update npm, if needed
 npm update -g npm
 ```
 
-Init project by creating the package.json file that will store its metadata with this wizard
+Init project by creating the 'package.json' file that will store its metadata with this wizard
 ```
 npm init
 ```
@@ -15,7 +15,7 @@ Install grunt command-line interface globally (-g)
 npm install -g grunt-cli
 ```
 
-Create a Gruntfile.js either by hand or with any of the available templates of 'grunt-init'
+Create a 'Gruntfile.js' either by hand or with any of the available templates of 'grunt-init'
 ```
 npm install -g grunt-init
 ```
